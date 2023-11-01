@@ -1,0 +1,2 @@
+# Emotion-based-Music-System
+The project aims at detecting the facial expressions(emotions) and thereby playing the song according to the emotion which you will show. The project is capable of detecting the emotions such as happy, sad, angry and neutral. Datasets were taken from kaggle. Songs can be included with the help of Javascript. The main code is written in python. A html-css based webpage is built where the music system can be found
